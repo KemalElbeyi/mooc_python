@@ -20,7 +20,7 @@ Bu proje, 2 boyutlu bir sayı ızgarasını (grid) analiz ederek içerisindeki e
 
 \## 🛠️ Kullanılan Teknolojiler
 
-\* Programlama Dili: Python 3.x
+\* Programlama Dili: Python 3
 
 \* Kütüphane: NumPy
 
